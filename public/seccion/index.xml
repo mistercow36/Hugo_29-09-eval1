@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Seccion 1 on My New Hugo Site</title>
+    <link>http://example.org/seccion/</link>
+    <description>Recent content in Seccion 1 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Sep 2022 17:06:01 +0200</lastBuildDate><atom:link href="http://example.org/seccion/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seccion 1, Tema 1</title>
+      <link>http://example.org/seccion/tema1/</link>
+      <pubDate>Fri, 23 Sep 2022 17:06:01 +0200</pubDate>
+      <guid>http://example.org/seccion/tema1/</guid>
+      <description>Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor Lorem ipsum dolor
+Celda1 Descripcion Otra celda 2 no se que estoy haciendo, ayuda Me gusta esto Im blue if i was green i would die Ajaja Me quiero morir Seccion 2, Tema 1</description>
+    </item>
+  </channel>
+</rss>

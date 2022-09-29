@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Sep 2022 17:06:01 +0200</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seccion 1</title>
+      <link>http://example.org/seccion/</link>
+      <pubDate>Fri, 23 Sep 2022 17:06:01 +0200</pubDate>
+      <guid>http://example.org/seccion/</guid>
+      <description>En esta seccion 1 encontraras&amp;hellip; sudo snap install hugo </description>
+    </item>
+    <item>
+      <title>Sección 2</title>
+      <link>http://example.org/seccion2/</link>
+      <pubDate>Fri, 23 Sep 2022 17:06:01 +0200</pubDate>
+      <guid>http://example.org/seccion2/</guid>
+      <description>En esta seccion 2 encontraras&amp;hellip;</description>
+    </item>
+    <item>
+      <title>Sección 3</title>
+      <link>http://example.org/seccion3/</link>
+      <pubDate>Fri, 23 Sep 2022 17:06:01 +0200</pubDate>
+      <guid>http://example.org/seccion3/</guid>
+      <description>En esta seccion 3 encontraras</description>
+    </item>
+  </channel>
+</rss>
