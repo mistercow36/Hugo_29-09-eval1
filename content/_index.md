@@ -7,9 +7,10 @@ draft: false
 # **_Pagina de Denis Murcia Suarez_**
 
 
-{{% button href="http://localhost:42135/seccion/" style="blue"%}}Seccion 1{{% /button %}}
-{{% button href="http://localhost:1313/seccion2/" style="green"%}}Seccion 2{{% /button %}}
-{{% button href="http://localhost:1313/seccion3/" style="red"%}}Seccion 3{{% /button %}}
+{{% button href="http://localhost:42135/http://localhost:33733/desarrollo-web-en-entorno-cliente//" style="blue"%}}Desarrollo web en entorno cliente{{% /button %}}
+{{% button href="http://localhost:33733/desarrollo-web-en-entorno-servidor/" style="green"%}}Desarrollo web en entorno servidor{{% /button %}}
+{{% button href="http://localhost:33733/despliegue-de-aplicaciones-web/" style="red"%}}Despliegue de aplicaciones web{{% /button %}}
+{{% button href="http://localhost:33733/dise%C3%B1o-de-interfaces-web/" style="red"%}}Diseño de interfaces web{{% /button %}}
 
 Esta pagina esta hecha por... {{% expand title="Seguir leyendo"%}}
 Denis Murcia Suarez, es la primera pagina que hace y ahora procedera a subirla a github para mantenerla actualizada {{% /expand %}}

@@ -1,7 +1,7 @@
 +++
 archetype = "Chapter2"
-title = "Sección 2"
-weight = 2
+title = "Desarrollo web en entorno cliente"
+weight = 1
 +++
 
 En esta seccion 2 encontraras...

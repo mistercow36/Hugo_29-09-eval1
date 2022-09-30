@@ -1,7 +1,7 @@
 +++
 archetype = "Chapter3"
-title = "Sección 3"
-weight = 3
+title = "Diseño de interfaces web"
+weight = 4
 +++
 
 En esta seccion 3 encontraras

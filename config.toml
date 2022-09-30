@@ -2,3 +2,81 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Denis Murcia Suarez'
 theme =['hugo-theme-relearn']
+
+defaultContentLanguage = "es"
+
+[[menu.shortcuts]]
+name="<i class='fab fa-php'></i> Lenguaje php"
+identified=""
+url="https://php.net"
+weight=1
+
+[[menu.shortcuts]]
+name="<i class='fab fa-wikipedia-w'></i> Wiki del curso"
+identified=""
+url="https://es.wikieducator.org/Usuario:ManuelRomero/ProgramacionWeb/Contenido"
+weight=2
+
+[[menu.shortcuts]]
+name="<i class='far fa-question-circle'></i> Ejercicios resueltos"
+identified=""
+url="http://manuel.infenlaces.com/dwes/ejercicios/"
+weight=3
+
+[params]
+themeVariant="blue"
+                    
+landingPageName = "<i class='fas fa-yin-yang'></i> Inicio"
+
+
+[Languages]
+    [Languages.es]
+        title = "Desarrollo de aplicaciones Web"
+        weight = 1
+        languageName = "Español"
+
+    [Languages.en]
+        title = "Web application Web"
+        weight = 2
+        languageName = "English"
+   
+   [Languages.fr]
+        title = "Développement d'applications Web"
+        weight = 3
+        languageName = "Français"
+
+[[Languages.en.menu.shortcuts]]
+            name = "<i class='fab fa-php'></i>Language PHP"
+            url = "http://php.net"
+            identifier = "php"
+            weight= 11
+
+[[Languages.en.menu.shortcuts]]
+            name = "<i class='fab fa-wikipedia-w'></i> Wiki Documentation"
+            identifier = "wiki"
+            url = "http://es.wikieducator.org/Usuario:ManuelRomero"
+            weight= 12  
+
+[[Languages.en.menu.shortcuts]]
+            name = "<i class='far fa-question-circle'></i> Exercise resolve"
+            identifier = "execise"
+            url = "http://manuel.infenlaces.com/dwes/ejercicios/"
+            weight= 12  
+
+[[Languages.fr.menu.shortcuts]]
+            name = "<i class='fab fa-php'></i>Langage php"
+            url = "http://php.net"
+            identifier = "php"
+            weight= 11
+
+[[Languages.fr.menu.shortcuts]]
+            name = "<i class='fab fa-wikipedia-w'></i> Documentation wikipédia"
+            identifier = "wiki"
+            url = "http://es.wikieducator.org/Usuario:ManuelRomero"
+            weight= 12  
+
+[[Languages.fr.menu.shortcuts]]
+            name = "<i class='far fa-question-circle'></i> Exercices résolus"
+            identifier = "execise"
+            url = "http://manuel.infenlaces.com/dwes/ejercicios/"
+            weight= 12

@@ -1,7 +1,7 @@
 +++
 archetype = "Chapter"
-title = "Seccion 1"
-weight = 1
+title = "Despliegue de aplicaciones Web"
+weight = 3
 +++
 
 # **_En esta seccion 1 encontraras_...**
