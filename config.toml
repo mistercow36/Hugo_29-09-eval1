@@ -34,16 +34,19 @@ landingPageName = "<i class='fas fa-yin-yang'></i> Inicio"
         title = "Desarrollo de aplicaciones Web"
         weight = 1
         languageName = "Español"
-
+        contentDir = "content/es"
+        
     [Languages.en]
         title = "Web application Web"
         weight = 2
         languageName = "English"
-   
+        contentDir = "content/en"
+
    [Languages.fr]
         title = "Développement d'applications Web"
         weight = 3
         languageName = "Français"
+        contentDir = "content/fr"
 
 [[Languages.en.menu.shortcuts]]
             name = "<i class='fab fa-php'></i>Language PHP"
